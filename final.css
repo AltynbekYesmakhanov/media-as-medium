@@ -1,0 +1,387 @@
+    .m-5{
+    height: 2386px;
+  width: 1440px;
+  left: 2171px;
+  top: -555px;
+  border-radius: 0px;
+  margin: 0px;
+  }
+  .logo-div{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+    
+    width: 1120px;
+    height: 22px;
+  }
+  .logo {
+    width: 1120px;
+    height: 22px;
+    
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+  
+    text-transform: lowercase;
+  
+    color: #000000;
+    }
+  .logo-div2{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+  
+    width: 1120px;
+    height: 120px;
+  }
+  .logo-two {
+    width: 1120px;
+    height: 120px;
+    
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 120px;
+    
+    color: #000000;
+    }
+    .articles:not(:last-of-type) { 
+      margin-bottom: 45px;
+    }
+    .footer {
+      height: calc(38.44% - 810px);
+      padding: 778px 160px 32px 672px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      align-self: stretch;
+    }
+    .button-small-38-px {
+      overflow: hidden;
+      border-radius: 100px;
+      padding: 10px 12px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .button-small-38-px:not(:last-of-type) {
+      margin-bottom: 32px;
+    }
+    .label-text {
+      text-align: center;
+      opacity: 0.5;
+      font-family: "Inter";
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 18px;
+      color: var(--black-2);
+    }
+    .label-text-two {
+      font-family: "Inter";
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 18px;
+      color: var(--black-2);
+      text-align: center;
+    }
+    .header {
+      height: calc(2.93% - 48px);
+      padding: 24px 160px;
+      display: flex;
+      align-items: center;
+      align-self: stretch;
+    }
+    .logo {
+      width: 1120px;
+      color: rgba(0, 0, 0, 1);
+      text-transform: lowercase;
+      font-family: var(--kanit-18-medium-family);
+      font-size: var(--kanit-18-medium-size);
+      font-weight: var(--kanit-18-medium-weight);
+      line-height: var(--kanit-18-medium-line-height);
+    }
+    .header-two {
+      height: calc(10.39% - 128px);
+      padding: 64px 160px;
+      display: flex;
+      align-items: center;
+      align-self: stretch;
+    }
+    .news-list {
+      height: 48.24%;
+      padding: 0 160px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      align-self: stretch;
+    }
+    .news:not(:last-of-type) {
+      margin-bottom: 45px;
+    }
+  .frame22{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 105px;
+  
+    width: 608px;
+    height: 38px;
+  }
+    .button-small-38-px {
+      overflow: hidden;
+      border-radius: 100px;
+      padding: 10px 12px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .button-small-38-px:not(:last-of-type) {
+      margin-bottom: 32px;
+    }
+    .label-text {
+      text-align: center;
+      opacity: 0.5;
+      color: rgba(8, 30, 52, 1);
+      font-family: var(--body-s-14-pt-medium-family);
+      font-size: var(--body-s-14-pt-medium-size);
+      font-weight: var(--body-s-14-pt-medium-weight);
+      line-height: var(--body-s-14-pt-medium-line-height);
+    }
+    .label-text-two {
+      color: rgba(8, 30, 52, 1);
+      text-align: center;
+      font-family: var(--body-s-14-pt-medium-family);
+      font-size: var(--body-s-14-pt-medium-size);
+      font-weight: var(--body-s-14-pt-medium-weight);
+      line-height: var(--body-s-14-pt-medium-line-height);
+    }
+  
+  
+  
+
+        .articles{
+      background-color: var(--white-smoke);
+      padding: 0 0 36px;
+
+      align-items: flex-start;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    }
+    .left {
+      margin-right: 100px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .top {
+      margin-bottom: 70px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .info-top {
+  
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      padding: 0px;
+      gap: 4px;
+  
+      width: 285px;
+      height: 24px;
+    }
+    .img {
+      width: 24px;
+      height: 24px;
+      margin-right: 4px;
+      border-radius: 50%;
+    }
+    .authors-name {
+  
+  
+      height: 18px;
+  
+  
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 18px;
+  
+  
+  
+      color: #000000;
+    }
+    .topics-name{
+      width: 87px;
+      height: 18px;
+  
+  
+  
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 18px;
+  
+  
+  
+      color: #000000;
+    }
+    .delimeter {
+  
+      width: 12px;
+  height: 18px;
+  
+  
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  
+  
+  
+  color: #000000;
+  
+  opacity: 0.5;
+    }
+    .july7{
+      width: 36px;
+      height: 18px;
+  
+  
+  
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 18px;
+  
+  
+  
+      color: #000000;
+  
+      opacity: 0.5;
+    }
+    .delimeter:not(:last-of-type) {
+      margin-right: 4px;
+    }
+    .delimeter-two {
+      width: 12px;
+      font-family: "Inter";
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 18px;
+      color: var(--black);
+      text-align: center;
+      margin-right: 4px;
+    }
+    .text {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .description {
+      width: 693px;
+      font-family: "Inter";
+      font-size: 28px;
+      font-weight: 700;
+      line-height: 34px;
+      color: var(--black);
+      margin-bottom: 24px;
+    }
+    .description-two {
+      max-width: 693px;
+      font-family: "Inter";
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 22px;
+      color: var(--black);
+    }
+    .info-bottom {
+      display: flex;
+      align-items: flex-end;
+    }
+    .info {
+      margin-right: 325px;
+      display: flex;
+      align-items: center;
+    }
+    .button-small-38-px {
+      margin-right: 8px;
+    }
+    .num-12-min-read {
+      font-family: "Inter";
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 18px;
+      color: var(--black);
+      opacity: 0.5;
+    }
+    .num-12-min-read:not(:last-of-type) {
+      margin-right: 8px;
+    }
+    .delimeter-three {
+      width: 12px;
+      font-family: "Inter";
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 18px;
+      color: var(--black);
+      text-align: center;
+      margin-right: 8px;
+    }
+    .actions {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      padding: 0px;
+      gap: 14px;
+  
+      width: 100px;
+      height: 24px;
+    }
+    .icon {
+      width: 24px;
+      height: 24px;
+      background: #E1E0E6;
+    }
+    .img-two {
+      width: 265px;
+      height: 265px;
+      border-radius: 4px;
+    }
+  .button-small-38-px {
+    background: linear-gradient(
+        rgba(8, 30, 52, 0.12),
+        rgba(8, 30, 52, 0.12)
+      ),
+      rgba(255, 251, 254, 1);
+    overflow: hidden;
+    border-radius: 100px;
+    padding: 6px 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .label-text {
+    color: var(--black);
+    text-align: center;
+    font-family: var(--body-s-14-pt-medium-family);
+    font-size: var(--body-s-14-pt-medium-size);
+    font-weight: var(--body-s-14-pt-medium-weight);
+    line-height: var(--body-s-14-pt-medium-line-height);
+  }
